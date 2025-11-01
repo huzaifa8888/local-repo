@@ -1,0 +1,13 @@
+[1mdiff --git a/index.html b/index.html[m
+[1mindex 9f83389..546cc5b 100644[m
+[1m--- a/index.html[m
+[1m+++ b/index.html[m
+[36m@@ -1,2 +1,6 @@[m
+ <p>This is a new para</p>[m
+[31m-<p>this is a new feature <button>clickclea</button></p>[m
+\ No newline at end of file[m
+[32m+[m[41m [m
+[32m+[m[32m<p>this is a new feature (dropdown)</p>[m
+[32m+[m
+[32m+[m[32m<p>this is a new feature <button>clickclea</button></p>[m
+[32m+[m[32m main[m
